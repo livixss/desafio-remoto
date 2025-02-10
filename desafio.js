@@ -1,6 +1,6 @@
 let heroi = {
     nome: "Livia", // Nome do herói
-    xp: 23230     // Quantidade de experiência (XP)s
+    xp: 1001     // Quantidade de experiência (XP)s
 };
 
 if (heroi.xp < 1000){
